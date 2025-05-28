@@ -149,15 +149,15 @@ section {
   display: none;
   text-align: left;
 }
-.html {
+html {
   scroll-behavior: smooth;
 }
 .footer {
     width: 100%;
     background: #1a703e;
-    color: #d8fff1;
+    color: #1d6e50;
     margin-top: 40px;
-    box-shadow: 0 -4px 24px #17614660;
+    box-shadow: 0 -4px 24px #32594b60;
     font-size: 18px;
     letter-spacing: 0.2px;
 }
